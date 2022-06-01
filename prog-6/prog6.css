@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+}
+.inc {
+  color: green;
+}
+.dec {
+  color: red;
+}
+.reset {
+  color: black;
+}
+h1 {
+  font-size: 5rem;
+}
+
+button {
+  background-color: transparent;
+  padding: 5px 10px;
+  letter-spacing: 5px;
+  font-size: large;
+  margin-left: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,76 @@
+body {
+  background-color: powderblue;
+}
+
+.section-center {
+  background-color: white;
+  max-width: max-content;
+  margin: auto;
+  margin-top: 15%;
+  padding: 50px 100px 30px 100px;
+  box-shadow: 20px 15px powderblue;
+  border-radius: 10px;
+}
+h3 {
+  font-size: xx-large;
+}
+input {
+  width: 60%;
+  padding: 10px;
+}
+.btn-submit {
+  background-color: powderblue;
+  border: none;
+  font-size: x-large;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.list-item {
+  display: inline-flex;
+}
+.btn-icon {
+  display: inline-flex;
+}
+.grocery {
+  visibility: hidden;
+}
+.btn-edit {
+  background-color: transparent;
+  color: green;
+  border: none;
+}
+.btn-delete {
+  background-color: transparent;
+  color: red;
+  border: none;
+}
+.title {
+  display: inline-block;
+}
+.btn-container {
+  display: inline-block;
+  margin-left: 60%;
+}
+.grocery-container {
+  visibility: hidden;
+}
+.show-container {
+  visibility: visible;
+}
+.btn-clear {
+  background-color: transparent;
+  border: none;
+  color: red;
+  font-size: large;
+  margin-left: 20%;
+}
+.alert{
+  text-align: center;
+}
+.alert-danger{
+  background-color: pink;
+}
+.alert-success{
+  background-color: green;
+}

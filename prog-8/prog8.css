@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+.arc {
+  max-width: 50%;
+  background-color: powderblue;
+  margin: 0% auto;
+  margin-bottom: 10px;
+}
+.ques {
+  display: inline-block;
+}
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  font-size: xx-large;
+  background-color: transparent;
+  border: none;
+}
+
+.ans {
+  display: none;
+}
+
+.btn-minus {
+  display: none;
+}
+
+.show-text .ans {
+  display: inline;
+}
+
+.show-text .btn-minus {
+  display: inline;
+}
+.show-text .btn-plus {
+  display: none;
+}

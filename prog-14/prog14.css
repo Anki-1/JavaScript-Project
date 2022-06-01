@@ -1,0 +1,20 @@
+body {
+  background-color: powderblue;
+  color: palevioletred;
+  font-size: x-large;
+}
+h1,h2{
+  text-align: center;
+  text-decoration: underline;
+}
+.btn {
+  font-size: larger;
+  background-color: transparent;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px;
+}
+.btn:hover {
+  background-color: black;
+  color: white;
+}

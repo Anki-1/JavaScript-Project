@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+nav{
+    float: right;
+    background-attachment: fixed;
+}
+a{
+    margin-right: 20px;
+    font-size: x-large;
+    text-decoration: none;
+
+}
+.sec{
+    text-align: center;
+    padding: 100px 0;
+}
+.img1{
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+}
+.img2 {
+    background-image: url("https://image.shutterstock.com/image-photo/old-brick-black-color-wall-260nw-1605128917.jpg");
+  }
+  .img3 {
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg");
+  }
+  .img4 {
+    background-image: url("https://www.w3schools.com/howto/img_forest.jpg");
+  }
+  .bg_img{
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.h1{
+    margin-top: 50px;
+}
+.h3{
+    font-size: x-large;
+    width: 45%;
+    margin: 0% auto;
+    color: slateblue;
+}
+.btn{
+    font-size: large;
+    text-transform: uppercase;
+    padding: 5px;
+    background-color: transparent;
+    margin-top: 20px;
+    cursor: pointer;
+}
+footer{
+    height: 500px;
+    color: red;
+}
