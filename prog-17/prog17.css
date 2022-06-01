@@ -1,0 +1,39 @@
+body {
+  background-color: powderblue;
+}
+.h1 {
+  font-size: 3rem;
+  text-decoration: underline;
+  text-align: center;
+  color: palevioletred;
+}
+input {
+  padding: 10px 20px;
+  font-size: x-large;
+  margin-left: 20px;
+}
+.btn-temp {
+  padding: 10px;
+  margin-left: 20px;
+  font-size: x-large;
+  background-color: transparent;
+  border: 2px solid blanchedalmond;
+  color: greenyellow;
+  cursor: pointer;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: blue;
+  color: tomato;
+}
+.temperature{
+  max-width: max-content;
+  background-color: white;
+  color: palevioletred;
+  margin: auto;
+  padding: 20px 40px;
+  margin-top: 20px;
+  box-shadow: 5px 10px transparent;
+  border-radius: 5pt;
+
+}
